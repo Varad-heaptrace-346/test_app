@@ -1,0 +1,2 @@
+Git is distributed version control system that helps developers manage changes to source code over time. 
+It allows for multiple branches, enabling developers to work on different features or fixes simulteneously without interfering with each other's work. 
